@@ -1,0 +1,390 @@
+Sales_Area,Sales_Amount,Payment_Type,Mth,Performance
+East,2954.7,Cash,1,0
+South,3008.4,Cash,1,0
+East,6796.8,Credit Card,1,0
+West,6945.4,On Account,1,0
+South,7221.6,On Account,1,0
+West,7658.2,On Account,1,0
+West,7658.6,Cash,1,0
+East,8188.0,On Account,1,0
+East,9058.4,Credit Card,1,0
+West,9098.6,On Account,1,0
+West,10019.2,On Account,1,0
+West,10176.0,Cash,1,0
+South,10903.2,Cash,1,0
+East,12096.0,On Account,1,0
+North,13310.4,Credit Card,1,0
+South,14616.0,Cash,1,0
+East,15029.0,Cash,1,1
+East,15264.0,Cash,1,1
+West,16385.6,Credit Card,1,1
+East,17353.6,Credit Card,1,1
+South,18885.9,On Account,1,1
+West,19108.0,Cash,1,1
+West,19456.0,Credit Card,1,1
+East,20140.0,On Account,1,1
+North,20366.1,On Account,1,1
+North,20880.0,Credit Card,1,1
+North,23076.2,Credit Card,1,1
+South,24236.0,Credit Card,1,1
+North,25560.0,Credit Card,1,1
+West,31127.2,On Account,1,1
+East,35649.0,Credit Card,1,1
+West,36372.1,Credit Card,1,1
+West,39186.0,Cash,1,1
+West,46716.0,Credit Card,1,1
+South,3596.0,Cash,2,0
+West,4531.0,On Account,2,0
+South,6300.0,On Account,2,0
+West,6751.8,Cash,2,0
+South,6804.0,Credit Card,2,0
+West,7343.2,Cash,2,0
+West,7356.6,Credit Card,2,0
+East,7717.5,On Account,2,0
+South,8524.4,On Account,2,0
+South,8772.0,On Account,2,0
+East,11617.6,Cash,2,0
+North,13479.4,On Account,2,0
+North,16604.4,Cash,2,1
+South,17328.3,On Account,2,1
+West,17748.0,Credit Card,2,1
+East,19431.0,Cash,2,1
+East,21169.6,Cash,2,1
+South,21438.9,Credit Card,2,1
+North,22176.0,Cash,2,1
+North,24131.0,Cash,2,1
+South,26556.8,Cash,2,1
+West,28395.5,On Account,2,1
+East,29158.4,Cash,2,1
+East,30305.0,Credit Card,2,1
+South,33132.6,On Account,2,1
+North,34353.5,Cash,2,1
+West,41429.5,Cash,2,1
+East,43184.4,On Account,2,1
+East,2311.5,Cash,3,0
+East,3013.5,Cash,3,0
+East,5287.5,Cash,3,0
+South,6544.8,Credit Card,3,0
+West,6708.9,On Account,3,0
+North,7416.9,On Account,3,0
+West,7982.7,On Account,3,0
+North,8284.5,Cash,3,0
+West,8694.0,Credit Card,3,0
+West,9116.0,Credit Card,3,0
+West,10110.3,Credit Card,3,0
+West,10451.2,Credit Card,3,0
+North,10758.7,Cash,3,0
+South,11166.3,Cash,3,0
+South,11403.0,Cash,3,0
+South,11554.4,Cash,3,0
+West,11580.4,Cash,3,0
+North,12124.2,On Account,3,0
+South,12144.0,Cash,3,0
+South,13244.7,Credit Card,3,0
+East,13797.0,Credit Card,3,0
+East,14063.0,Cash,3,0
+West,14329.5,Credit Card,3,0
+North,14392.0,Credit Card,3,0
+East,14608.3,Credit Card,3,0
+North,15246.0,Credit Card,3,1
+East,16063.2,Cash,3,1
+East,16836.0,Credit Card,3,1
+North,17335.2,On Account,3,1
+East,19594.0,On Account,3,1
+West,20128.0,On Account,3,1
+West,21168.0,Credit Card,3,1
+East,21654.4,Cash,3,1
+South,23014.4,Credit Card,3,1
+West,25102.4,Cash,3,1
+South,26200.0,Cash,3,1
+West,27670.9,On Account,3,1
+East,27930.0,Credit Card,3,1
+West,27956.8,Cash,3,1
+South,28286.4,Credit Card,3,1
+West,31407.0,Cash,3,1
+West,35647.5,On Account,3,1
+South,35715.4,Cash,3,1
+West,36907.2,Cash,3,1
+East,39065.9,Cash,3,1
+North,40831.0,Credit Card,3,1
+East,44422.0,On Account,3,1
+West,5696.4,Credit Card,4,0
+South,6960.0,On Account,4,0
+East,7029.9,On Account,4,0
+North,8520.0,On Account,4,0
+South,9627.9,Credit Card,4,0
+West,11716.5,Credit Card,4,0
+East,11914.4,Cash,4,0
+South,13725.6,On Account,4,0
+North,14301.6,On Account,4,0
+West,14416.0,On Account,4,0
+South,15353.2,Credit Card,4,1
+East,15919.7,Credit Card,4,1
+West,16499.4,Cash,4,1
+West,16968.0,On Account,4,1
+North,17204.4,Credit Card,4,1
+East,17776.0,On Account,4,1
+West,17993.5,Credit Card,4,1
+West,18188.4,Cash,4,1
+South,18994.5,Cash,4,1
+North,19080.0,Cash,4,1
+North,19210.4,Credit Card,4,1
+South,28628.8,On Account,4,1
+North,32282.8,Cash,4,1
+North,32524.1,Credit Card,4,1
+North,35153.8,Credit Card,4,1
+North,35820.0,On Account,4,1
+East,36666.0,Cash,4,1
+East,38227.7,Credit Card,4,1
+North,42690.4,On Account,4,1
+East,51531.2,On Account,4,1
+East,8686.6,Cash,5,0
+West,9004.8,Credit Card,5,0
+North,9270.1,Credit Card,5,0
+South,10948.0,Credit Card,5,0
+North,11235.0,On Account,5,0
+North,12019.8,Credit Card,5,0
+East,12422.2,On Account,5,0
+South,13044.9,Credit Card,5,0
+East,15120.0,Cash,5,1
+East,16604.4,On Account,5,1
+West,18826.4,On Account,5,1
+East,19584.0,Cash,5,1
+West,19617.5,On Account,5,1
+West,19836.4,Credit Card,5,1
+West,20717.6,Cash,5,1
+West,23364.0,Cash,5,1
+West,23997.6,Credit Card,5,1
+East,26546.6,Cash,5,1
+West,27916.4,On Account,5,1
+North,27930.0,Cash,5,1
+South,28616.0,On Account,5,1
+South,30377.4,On Account,5,1
+East,31200.0,Cash,5,1
+South,35351.0,Cash,5,1
+West,42249.1,Cash,5,1
+East,2070.3,Credit Card,6,0
+South,6872.8,Credit Card,6,0
+North,7582.0,Credit Card,6,0
+North,8721.6,On Account,6,0
+South,8827.0,On Account,6,0
+East,9499.0,Cash,6,0
+West,9574.8,Cash,6,0
+South,9836.8,Credit Card,6,0
+South,10032.0,Credit Card,6,0
+North,10500.0,Cash,6,0
+North,13467.0,On Account,6,0
+West,14301.6,Cash,6,0
+West,15061.2,Cash,6,1
+South,15953.6,Cash,6,1
+North,16036.8,Cash,6,1
+North,16846.8,Cash,6,1
+West,17262.0,Cash,6,1
+East,17904.7,On Account,6,1
+East,18878.4,Cash,6,1
+East,23445.0,Cash,6,1
+South,25560.0,Credit Card,6,1
+East,34162.0,Cash,6,1
+South,35695.0,Cash,6,1
+West,37192.5,On Account,6,1
+West,39653.9,On Account,6,1
+East,3055.2,Credit Card,7,0
+West,3465.0,Cash,7,0
+East,4843.4,On Account,7,0
+East,5215.2,On Account,7,0
+West,5332.8,Cash,7,0
+East,7199.7,On Account,7,0
+West,8065.6,On Account,7,0
+South,9405.3,Cash,7,0
+South,9704.2,On Account,7,0
+West,10067.2,On Account,7,0
+West,10649.0,On Account,7,0
+West,10679.4,On Account,7,0
+West,11155.5,Credit Card,7,0
+West,11543.0,Credit Card,7,0
+South,13674.0,Cash,7,0
+East,14670.0,Credit Card,7,0
+West,15633.2,Cash,7,1
+North,15957.2,On Account,7,1
+North,16492.0,Credit Card,7,1
+East,16614.4,Credit Card,7,1
+East,20076.7,On Account,7,1
+West,20868.4,Cash,7,1
+South,21120.4,Cash,7,1
+North,21295.4,Credit Card,7,1
+East,21483.0,On Account,7,1
+South,23997.6,Credit Card,7,1
+West,24395.1,Credit Card,7,1
+North,25518.8,Credit Card,7,1
+North,27676.6,Cash,7,1
+North,28395.0,On Account,7,1
+East,30776.8,Credit Card,7,1
+South,35715.4,On Account,7,1
+North,41826.4,On Account,7,1
+North,49056.0,Credit Card,7,1
+South,3386.6,Cash,8,0
+West,3760.5,Credit Card,8,0
+South,4028.0,Credit Card,8,0
+West,4322.8,On Account,8,0
+South,5532.8,Cash,8,0
+North,6201.0,On Account,8,0
+North,6311.4,On Account,8,0
+North,7289.6,Credit Card,8,0
+North,8322.4,Credit Card,8,0
+North,8501.9,Cash,8,0
+East,8625.0,Cash,8,0
+West,9697.6,Cash,8,0
+North,9708.3,Cash,8,0
+East,9794.0,Cash,8,0
+South,10200.0,On Account,8,0
+West,10391.7,On Account,8,0
+North,12944.4,Cash,8,0
+South,13923.0,On Account,8,0
+North,14248.0,Cash,8,0
+West,15670.2,On Account,8,1
+East,16321.6,Credit Card,8,1
+South,17593.4,Cash,8,1
+South,17666.0,Credit Card,8,1
+North,18298.4,On Account,8,1
+North,18838.4,On Account,8,1
+East,19678.8,Cash,8,1
+South,21420.0,On Account,8,1
+West,22477.9,Cash,8,1
+South,24080.0,Credit Card,8,1
+North,24469.6,Cash,8,1
+South,27531.0,On Account,8,1
+North,31053.4,Credit Card,8,1
+South,32795.7,Cash,8,1
+East,33694.8,Cash,8,1
+West,36088.1,On Account,8,1
+East,39236.0,On Account,8,1
+East,43088.2,Credit Card,8,1
+West,43388.1,Cash,8,1
+North,3710.0,On Account,9,0
+East,5572.3,Credit Card,9,0
+North,6600.0,Credit Card,9,0
+South,7008.0,On Account,9,0
+East,7497.0,Cash,9,0
+West,7714.0,Credit Card,9,0
+North,8001.0,Credit Card,9,0
+South,8099.7,Credit Card,9,0
+North,8772.0,Cash,9,0
+East,9651.2,Credit Card,9,0
+South,9840.0,Cash,9,0
+South,10218.0,Cash,9,0
+East,10492.2,On Account,9,0
+North,14089.2,Cash,9,0
+South,14311.2,Credit Card,9,0
+South,14715.2,Cash,9,0
+West,15152.4,On Account,9,1
+West,16363.9,Credit Card,9,1
+North,16702.4,Cash,9,1
+East,18396.7,Credit Card,9,1
+South,19147.8,Cash,9,1
+South,20760.3,Cash,9,1
+North,21216.0,Cash,9,1
+North,21546.0,Credit Card,9,1
+East,23849.6,Credit Card,9,1
+East,23882.4,On Account,9,1
+South,24579.8,Credit Card,9,1
+South,25946.3,On Account,9,1
+South,30368.0,Cash,9,1
+North,31186.6,Credit Card,9,1
+North,31999.2,Cash,9,1
+East,34041.3,On Account,9,1
+South,35640.0,Credit Card,9,1
+North,37520.0,Cash,9,1
+North,41215.3,On Account,9,1
+West,2997.2,Credit Card,10,0
+North,3035.1,Cash,10,0
+East,3243.6,Credit Card,10,0
+South,4201.6,Cash,10,0
+North,6688.0,Cash,10,0
+North,7024.2,On Account,10,0
+North,7139.0,Credit Card,10,0
+West,7196.0,Cash,10,0
+West,10595.2,On Account,10,0
+West,10694.7,On Account,10,0
+North,10948.0,Cash,10,0
+North,10988.8,Credit Card,10,0
+North,12306.6,Cash,10,0
+East,12633.6,Cash,10,0
+East,12806.4,On Account,10,0
+West,14235.4,On Account,10,0
+South,15262.8,On Account,10,1
+North,16077.0,Cash,10,1
+North,19594.0,Cash,10,1
+North,19946.2,On Account,10,1
+East,20031.2,On Account,10,1
+South,20790.0,Cash,10,1
+East,21485.2,Cash,10,1
+South,21878.5,Credit Card,10,1
+South,22136.8,Credit Card,10,1
+East,22607.2,Credit Card,10,1
+South,23240.4,Cash,10,1
+North,26773.4,On Account,10,1
+North,28464.9,On Account,10,1
+West,36530.2,Cash,10,1
+West,36896.2,On Account,10,1
+North,37544.8,Credit Card,10,1
+North,40224.8,Credit Card,10,1
+West,41420.7,Credit Card,10,1
+South,41989.6,Credit Card,10,1
+North,43591.8,Credit Card,10,1
+East,5130.0,Cash,11,0
+West,6900.0,Cash,11,0
+East,8810.9,Credit Card,11,0
+South,9006.0,On Account,11,0
+North,9292.5,Cash,11,0
+West,9683.0,On Account,11,0
+South,10573.5,Credit Card,11,0
+South,13230.0,Cash,11,0
+West,14302.9,Credit Card,11,0
+South,15403.6,Cash,11,1
+South,16394.4,Cash,11,1
+East,16606.0,Credit Card,11,1
+South,16606.0,On Account,11,1
+West,16806.4,Credit Card,11,1
+East,17766.0,Credit Card,11,1
+South,18452.6,On Account,11,1
+South,20062.5,Credit Card,11,1
+West,20797.2,Cash,11,1
+East,20916.0,Credit Card,11,1
+East,22396.5,On Account,11,1
+South,22900.5,Credit Card,11,1
+South,23058.0,On Account,11,1
+East,25633.5,Cash,11,1
+West,26866.0,On Account,11,1
+North,28761.6,On Account,11,1
+East,37374.4,On Account,11,1
+South,37560.0,On Account,11,1
+South,38570.0,Credit Card,11,1
+South,39199.6,On Account,11,1
+North,41932.8,Credit Card,11,1
+North,42427.0,Cash,11,1
+North,47510.4,Cash,11,1
+East,3818.0,Credit Card,12,0
+West,7009.2,Cash,12,0
+West,7088.9,Credit Card,12,0
+North,7721.6,Credit Card,12,0
+South,8082.8,Credit Card,12,0
+West,8095.5,Credit Card,12,0
+East,8683.2,Cash,12,0
+West,8914.5,Credit Card,12,0
+North,8925.7,Credit Card,12,0
+South,9826.4,On Account,12,0
+East,11210.0,On Account,12,0
+South,12328.0,Cash,12,0
+East,12765.2,On Account,12,0
+North,15802.6,On Account,12,1
+East,15922.0,On Account,12,1
+North,21103.3,On Account,12,1
+North,22351.1,On Account,12,1
+South,24544.0,Cash,12,1
+South,27350.4,On Account,12,1
+South,28845.0,Cash,12,1
+East,31970.8,Credit Card,12,1
+East,41520.0,Credit Card,12,1
+South,43593.6,Cash,12,1
+North,43974.0,Credit Card,12,1
+East,45801.0,Cash,12,1

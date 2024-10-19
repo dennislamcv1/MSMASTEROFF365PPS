@@ -1,0 +1,390 @@
+Month,Employee,First_Name,Last_Name,Sales_Area,Sales_Amount,Payment_Type,Targets,Commission,Mth,Over/Under
+2021-01-01,Reza Jafari,Reza,Jafari,East,2954.7,Cash,15000,0.0,1,-12045.3
+2021-01-01,Olivia Cheung,Olivia,Cheung,South,3008.4,Cash,15000,0.0,1,-11991.6
+2021-01-01,Bryan Maldonado,Bryan,Maldonado,East,6796.8,Credit Card,15000,0.0,1,-8203.2
+2021-01-01,Nina McDonald,Nina,McDonald,West,6945.4,On Account,15000,0.0,1,-8054.6
+2021-01-01,Jason Jackaki,Jason,Jackaki,South,7221.6,On Account,15000,0.0,1,-7778.4
+2021-01-01,Nina McDonald,Nina,McDonald,West,7658.2,On Account,15000,0.0,1,-7341.8
+2021-01-01,Ally Bryant,Ally,Bryant,West,7658.6,Cash,15000,0.0,1,-7341.4
+2021-01-01,Bryan Maldonado,Bryan,Maldonado,East,8188.0,On Account,15000,0.0,1,-6812.0
+2021-01-01,Reza Jafari,Reza,Jafari,East,9058.4,Credit Card,15000,0.0,1,-5941.6
+2021-01-01,Josh Sutherland,Josh,Sutherland,West,9098.6,On Account,15000,0.0,1,-5901.4
+2021-01-01,Nina McDonald,Nina,McDonald,West,10019.2,On Account,15000,0.0,1,-4980.799999999999
+2021-01-01,Ally Bryant,Ally,Bryant,West,10176.0,Cash,15000,0.0,1,-4824.0
+2021-01-01,Olivia Cheung,Olivia,Cheung,South,10903.2,Cash,15000,0.0,1,-4096.799999999999
+2021-01-01,Bryan Maldonado,Bryan,Maldonado,East,12096.0,On Account,15000,0.0,1,-2904.0
+2021-01-01,Chloe Fusaro,Chloe,Fusaro,North,13310.4,Credit Card,15000,0.0,1,-1689.6000000000004
+2021-01-01,Annabel Mettick,Annabel,Mettick,South,14616.0,Cash,15000,0.0,1,-384.0
+2021-01-01,Ashley Almanza,Ashley,Almanza,East,15029.0,Cash,15000,1502.9,1,29.0
+2021-01-01,Ashley Almanza,Ashley,Almanza,East,15264.0,Cash,15000,1526.4,1,264.0
+2021-01-01,Josh Sutherland,Josh,Sutherland,West,16385.6,Credit Card,15000,1638.56,1,1385.5999999999985
+2021-01-01,Ashley Almanza,Ashley,Almanza,East,17353.6,Credit Card,15000,1735.36,1,2353.5999999999985
+2021-01-01,Emily Whelan,Emily,Whelan,South,18885.9,On Account,15000,1888.59,1,3885.9000000000015
+2021-01-01,Ally Bryant,Ally,Bryant,West,19108.0,Cash,15000,1910.8,1,4108.0
+2021-01-01,Nina McDonald,Nina,McDonald,West,19456.0,Credit Card,15000,1945.6,1,4456.0
+2021-01-01,Derek Godwin,Derek,Godwin,East,20140.0,On Account,15000,2014.0,1,5140.0
+2021-01-01,David Wilkinson,David,Wilkinson,North,20366.1,On Account,15000,2036.61,1,5366.0999999999985
+2021-01-01,David Wilkinson,David,Wilkinson,North,20880.0,Credit Card,15000,2088.0,1,5880.0
+2021-01-01,Chloe Fusaro,Chloe,Fusaro,North,23076.2,Credit Card,15000,2307.62,1,8076.200000000001
+2021-01-01,Emily Whelan,Emily,Whelan,South,24236.0,Credit Card,15000,2423.6,1,9236.0
+2021-01-01,Chloe Fusaro,Chloe,Fusaro,North,25560.0,Credit Card,15000,2556.0,1,10560.0
+2021-01-01,Spencer Cruz,Spencer,Cruz,West,31127.2,On Account,15000,3112.72,1,16127.2
+2021-01-01,Derek Godwin,Derek,Godwin,East,35649.0,Credit Card,15000,3564.9,1,20649.0
+2021-01-01,Spencer Cruz,Spencer,Cruz,West,36372.1,Credit Card,15000,3637.21,1,21372.1
+2021-01-01,Ally Bryant,Ally,Bryant,West,39186.0,Cash,15000,3918.6,1,24186.0
+2021-01-01,Spencer Cruz,Spencer,Cruz,West,46716.0,Credit Card,15000,4671.6,1,31716.0
+2021-02-01,Annabel Mettick,Annabel,Mettick,South,3596.0,Cash,15000,0.0,2,-11404.0
+2021-02-01,Nina McDonald,Nina,McDonald,West,4531.0,On Account,15000,0.0,2,-10469.0
+2021-02-01,Cory Goodwin,Cory,Goodwin,South,6300.0,On Account,15000,0.0,2,-8700.0
+2021-02-01,Tia Cruise,Tia,Cruise,West,6751.8,Cash,15000,0.0,2,-8248.2
+2021-02-01,Annabel Mettick,Annabel,Mettick,South,6804.0,Credit Card,15000,0.0,2,-8196.0
+2021-02-01,Nina McDonald,Nina,McDonald,West,7343.2,Cash,15000,0.0,2,-7656.8
+2021-02-01,Nina McDonald,Nina,McDonald,West,7356.6,Credit Card,15000,0.0,2,-7643.4
+2021-02-01,Gordon Beswick,Gordon,Beswick,East,7717.5,On Account,15000,0.0,2,-7282.5
+2021-02-01,Jason Jackaki,Jason,Jackaki,South,8524.4,On Account,15000,0.0,2,-6475.6
+2021-02-01,Annabel Mettick,Annabel,Mettick,South,8772.0,On Account,15000,0.0,2,-6228.0
+2021-02-01,Gordon Beswick,Gordon,Beswick,East,11617.6,Cash,15000,0.0,2,-3382.3999999999996
+2021-02-01,David Wilkinson,David,Wilkinson,North,13479.4,On Account,15000,0.0,2,-1520.6000000000004
+2021-02-01,Chloe Fusaro,Chloe,Fusaro,North,16604.4,Cash,15000,1660.44,2,1604.4000000000015
+2021-02-01,Annabel Mettick,Annabel,Mettick,South,17328.3,On Account,15000,1732.83,2,2328.2999999999993
+2021-02-01,Tia Cruise,Tia,Cruise,West,17748.0,Credit Card,15000,1774.8,2,2748.0
+2021-02-01,Derek Godwin,Derek,Godwin,East,19431.0,Cash,15000,1943.1,2,4431.0
+2021-02-01,Ashley Almanza,Ashley,Almanza,East,21169.6,Cash,15000,2116.96,2,6169.5999999999985
+2021-02-01,Cory Goodwin,Cory,Goodwin,South,21438.9,Credit Card,15000,2143.89,2,6438.9000000000015
+2021-02-01,Sarah Gibbs,Sarah,Gibbs,North,22176.0,Cash,15000,2217.6,2,7176.0
+2021-02-01,David Wilkinson,David,Wilkinson,North,24131.0,Cash,15000,2413.1,2,9131.0
+2021-02-01,Jason Jackaki,Jason,Jackaki,South,26556.8,Cash,15000,2655.68,2,11556.8
+2021-02-01,Nina McDonald,Nina,McDonald,West,28395.5,On Account,15000,2839.55,2,13395.5
+2021-02-01,Reza Jafari,Reza,Jafari,East,29158.4,Cash,15000,2915.84,2,14158.400000000001
+2021-02-01,Derek Godwin,Derek,Godwin,East,30305.0,Credit Card,15000,3030.5,2,15305.0
+2021-02-01,Jason Jackaki,Jason,Jackaki,South,33132.6,On Account,15000,3313.26,2,18132.6
+2021-02-01,Chloe Fusaro,Chloe,Fusaro,North,34353.5,Cash,15000,3435.35,2,19353.5
+2021-02-01,Ally Bryant,Ally,Bryant,West,41429.5,Cash,15000,4142.95,2,26429.5
+2021-02-01,Gordon Beswick,Gordon,Beswick,East,43184.4,On Account,15000,4318.44,2,28184.4
+2021-03-01,Derek Godwin,Derek,Godwin,East,2311.5,Cash,15000,0.0,3,-12688.5
+2021-03-01,Gordon Beswick,Gordon,Beswick,East,3013.5,Cash,15000,0.0,3,-11986.5
+2021-03-01,Gordon Beswick,Gordon,Beswick,East,5287.5,Cash,15000,0.0,3,-9712.5
+2021-03-01,Annabel Mettick,Annabel,Mettick,South,6544.8,Credit Card,15000,0.0,3,-8455.2
+2021-03-01,Spencer Cruz,Spencer,Cruz,West,6708.9,On Account,15000,0.0,3,-8291.1
+2021-03-01,Charlotte Edwards,Charlotte,Edwards,North,7416.9,On Account,15000,0.0,3,-7583.1
+2021-03-01,Josh Sutherland,Josh,Sutherland,West,7982.7,On Account,15000,0.0,3,-7017.3
+2021-03-01,Jonah Seitz,Jonah,Seitz,North,8284.5,Cash,15000,0.0,3,-6715.5
+2021-03-01,Ally Bryant,Ally,Bryant,West,8694.0,Credit Card,15000,0.0,3,-6306.0
+2021-03-01,Ally Bryant,Ally,Bryant,West,9116.0,Credit Card,15000,0.0,3,-5884.0
+2021-03-01,Josh Sutherland,Josh,Sutherland,West,10110.3,Credit Card,15000,0.0,3,-4889.700000000001
+2021-03-01,Nina McDonald,Nina,McDonald,West,10451.2,Credit Card,15000,0.0,3,-4548.799999999999
+2021-03-01,Chloe Fusaro,Chloe,Fusaro,North,10758.7,Cash,15000,0.0,3,-4241.299999999999
+2021-03-01,Jason Jackaki,Jason,Jackaki,South,11166.3,Cash,15000,0.0,3,-3833.7000000000007
+2021-03-01,Annabel Mettick,Annabel,Mettick,South,11403.0,Cash,15000,0.0,3,-3597.0
+2021-03-01,Annabel Mettick,Annabel,Mettick,South,11554.4,Cash,15000,0.0,3,-3445.6000000000004
+2021-03-01,Nina McDonald,Nina,McDonald,West,11580.4,Cash,15000,0.0,3,-3419.6000000000004
+2021-03-01,David Wilkinson,David,Wilkinson,North,12124.2,On Account,15000,0.0,3,-2875.7999999999993
+2021-03-01,Olivia Cheung,Olivia,Cheung,South,12144.0,Cash,15000,0.0,3,-2856.0
+2021-03-01,Olivia Cheung,Olivia,Cheung,South,13244.7,Credit Card,15000,0.0,3,-1755.2999999999993
+2021-03-01,Reza Jafari,Reza,Jafari,East,13797.0,Credit Card,15000,0.0,3,-1203.0
+2021-03-01,Bryan Maldonado,Bryan,Maldonado,East,14063.0,Cash,15000,0.0,3,-937.0
+2021-03-01,Ally Bryant,Ally,Bryant,West,14329.5,Credit Card,15000,0.0,3,-670.5
+2021-03-01,Charlotte Edwards,Charlotte,Edwards,North,14392.0,Credit Card,15000,0.0,3,-608.0
+2021-03-01,Reza Jafari,Reza,Jafari,East,14608.3,Credit Card,15000,0.0,3,-391.7000000000007
+2021-03-01,Jonah Seitz,Jonah,Seitz,North,15246.0,Credit Card,15000,1524.6,3,246.0
+2021-03-01,Gordon Beswick,Gordon,Beswick,East,16063.2,Cash,15000,1606.32,3,1063.2000000000007
+2021-03-01,Derek Godwin,Derek,Godwin,East,16836.0,Credit Card,15000,1683.6,3,1836.0
+2021-03-01,Charlotte Edwards,Charlotte,Edwards,North,17335.2,On Account,15000,1733.52,3,2335.2000000000007
+2021-03-01,Gordon Beswick,Gordon,Beswick,East,19594.0,On Account,15000,1959.4,3,4594.0
+2021-03-01,Ally Bryant,Ally,Bryant,West,20128.0,On Account,15000,2012.8,3,5128.0
+2021-03-01,Spencer Cruz,Spencer,Cruz,West,21168.0,Credit Card,15000,2116.8,3,6168.0
+2021-03-01,Derek Godwin,Derek,Godwin,East,21654.4,Cash,15000,2165.44,3,6654.4000000000015
+2021-03-01,Emily Whelan,Emily,Whelan,South,23014.4,Credit Card,15000,2301.44,3,8014.4000000000015
+2021-03-01,Tia Cruise,Tia,Cruise,West,25102.4,Cash,15000,2510.24,3,10102.400000000001
+2021-03-01,Olivia Cheung,Olivia,Cheung,South,26200.0,Cash,15000,2620.0,3,11200.0
+2021-03-01,Tia Cruise,Tia,Cruise,West,27670.9,On Account,15000,2767.09,3,12670.900000000001
+2021-03-01,Bryan Maldonado,Bryan,Maldonado,East,27930.0,Credit Card,15000,2793.0,3,12930.0
+2021-03-01,Tia Cruise,Tia,Cruise,West,27956.8,Cash,15000,2795.68,3,12956.8
+2021-03-01,Jason Jackaki,Jason,Jackaki,South,28286.4,Credit Card,15000,2828.64,3,13286.400000000001
+2021-03-01,Ally Bryant,Ally,Bryant,West,31407.0,Cash,15000,3140.7,3,16407.0
+2021-03-01,Josh Sutherland,Josh,Sutherland,West,35647.5,On Account,15000,3564.75,3,20647.5
+2021-03-01,Olivia Cheung,Olivia,Cheung,South,35715.4,Cash,15000,3571.54,3,20715.4
+2021-03-01,Josh Sutherland,Josh,Sutherland,West,36907.2,Cash,15000,3690.72,3,21907.199999999997
+2021-03-01,Ashley Almanza,Ashley,Almanza,East,39065.9,Cash,15000,3906.59,3,24065.9
+2021-03-01,Jonah Seitz,Jonah,Seitz,North,40831.0,Credit Card,15000,4083.1,3,25831.0
+2021-03-01,Gordon Beswick,Gordon,Beswick,East,44422.0,On Account,15000,4442.2,3,29422.0
+2021-04-01,Josh Sutherland,Josh,Sutherland,West,5696.4,Credit Card,15000,0.0,4,-9303.6
+2021-04-01,Cory Goodwin,Cory,Goodwin,South,6960.0,On Account,15000,0.0,4,-8040.0
+2021-04-01,Bryan Maldonado,Bryan,Maldonado,East,7029.9,On Account,15000,0.0,4,-7970.1
+2021-04-01,Chloe Fusaro,Chloe,Fusaro,North,8520.0,On Account,15000,0.0,4,-6480.0
+2021-04-01,Emily Whelan,Emily,Whelan,South,9627.9,Credit Card,15000,0.0,4,-5372.1
+2021-04-01,Nina McDonald,Nina,McDonald,West,11716.5,Credit Card,15000,0.0,4,-3283.5
+2021-04-01,Bryan Maldonado,Bryan,Maldonado,East,11914.4,Cash,15000,0.0,4,-3085.6000000000004
+2021-04-01,Annabel Mettick,Annabel,Mettick,South,13725.6,On Account,15000,0.0,4,-1274.3999999999996
+2021-04-01,Charlotte Edwards,Charlotte,Edwards,North,14301.6,On Account,15000,0.0,4,-698.3999999999996
+2021-04-01,Spencer Cruz,Spencer,Cruz,West,14416.0,On Account,15000,0.0,4,-584.0
+2021-04-01,Emily Whelan,Emily,Whelan,South,15353.2,Credit Card,15000,1535.32,4,353.2000000000007
+2021-04-01,Ashley Almanza,Ashley,Almanza,East,15919.7,Credit Card,15000,1591.97,4,919.7000000000007
+2021-04-01,Nina McDonald,Nina,McDonald,West,16499.4,Cash,15000,1649.94,4,1499.4000000000015
+2021-04-01,Josh Sutherland,Josh,Sutherland,West,16968.0,On Account,15000,1696.8,4,1968.0
+2021-04-01,Charlotte Edwards,Charlotte,Edwards,North,17204.4,Credit Card,15000,1720.44,4,2204.4000000000015
+2021-04-01,Reza Jafari,Reza,Jafari,East,17776.0,On Account,15000,1777.6,4,2776.0
+2021-04-01,Ally Bryant,Ally,Bryant,West,17993.5,Credit Card,15000,1799.35,4,2993.5
+2021-04-01,Josh Sutherland,Josh,Sutherland,West,18188.4,Cash,15000,1818.84,4,3188.4000000000015
+2021-04-01,Olivia Cheung,Olivia,Cheung,South,18994.5,Cash,15000,1899.45,4,3994.5
+2021-04-01,Jonah Seitz,Jonah,Seitz,North,19080.0,Cash,15000,1908.0,4,4080.0
+2021-04-01,Chloe Fusaro,Chloe,Fusaro,North,19210.4,Credit Card,15000,1921.04,4,4210.4000000000015
+2021-04-01,Olivia Cheung,Olivia,Cheung,South,28628.8,On Account,15000,2862.88,4,13628.8
+2021-04-01,Chloe Fusaro,Chloe,Fusaro,North,32282.8,Cash,15000,3228.28,4,17282.8
+2021-04-01,Sarah Gibbs,Sarah,Gibbs,North,32524.1,Credit Card,15000,3252.41,4,17524.1
+2021-04-01,Chloe Fusaro,Chloe,Fusaro,North,35153.8,Credit Card,15000,3515.38,4,20153.800000000003
+2021-04-01,Chloe Fusaro,Chloe,Fusaro,North,35820.0,On Account,15000,3582.0,4,20820.0
+2021-04-01,Gordon Beswick,Gordon,Beswick,East,36666.0,Cash,15000,3666.6,4,21666.0
+2021-04-01,Reza Jafari,Reza,Jafari,East,38227.7,Credit Card,15000,3822.77,4,23227.699999999997
+2021-04-01,David Wilkinson,David,Wilkinson,North,42690.4,On Account,15000,4269.04,4,27690.4
+2021-04-01,Reza Jafari,Reza,Jafari,East,51531.2,On Account,15000,5153.12,4,36531.2
+2021-05-01,Derek Godwin,Derek,Godwin,East,8686.6,Cash,15000,0.0,5,-6313.4
+2021-05-01,Spencer Cruz,Spencer,Cruz,West,9004.8,Credit Card,15000,0.0,5,-5995.200000000001
+2021-05-01,David Wilkinson,David,Wilkinson,North,9270.1,Credit Card,15000,0.0,5,-5729.9
+2021-05-01,Cory Goodwin,Cory,Goodwin,South,10948.0,Credit Card,15000,0.0,5,-4052.0
+2021-05-01,David Wilkinson,David,Wilkinson,North,11235.0,On Account,15000,0.0,5,-3765.0
+2021-05-01,Sarah Gibbs,Sarah,Gibbs,North,12019.8,Credit Card,15000,0.0,5,-2980.2000000000007
+2021-05-01,Reza Jafari,Reza,Jafari,East,12422.2,On Account,15000,0.0,5,-2577.7999999999993
+2021-05-01,Jason Jackaki,Jason,Jackaki,South,13044.9,Credit Card,15000,0.0,5,-1955.1000000000004
+2021-05-01,Gordon Beswick,Gordon,Beswick,East,15120.0,Cash,15000,1512.0,5,120.0
+2021-05-01,Derek Godwin,Derek,Godwin,East,16604.4,On Account,15000,1660.44,5,1604.4000000000015
+2021-05-01,Josh Sutherland,Josh,Sutherland,West,18826.4,On Account,15000,1882.64,5,3826.4000000000015
+2021-05-01,Reza Jafari,Reza,Jafari,East,19584.0,Cash,15000,1958.4,5,4584.0
+2021-05-01,Josh Sutherland,Josh,Sutherland,West,19617.5,On Account,15000,1961.75,5,4617.5
+2021-05-01,Josh Sutherland,Josh,Sutherland,West,19836.4,Credit Card,15000,1983.64,5,4836.4000000000015
+2021-05-01,Ally Bryant,Ally,Bryant,West,20717.6,Cash,15000,2071.76,5,5717.5999999999985
+2021-05-01,Tia Cruise,Tia,Cruise,West,23364.0,Cash,15000,2336.4,5,8364.0
+2021-05-01,Josh Sutherland,Josh,Sutherland,West,23997.6,Credit Card,15000,2399.76,5,8997.599999999999
+2021-05-01,Ashley Almanza,Ashley,Almanza,East,26546.6,Cash,15000,2654.66,5,11546.599999999999
+2021-05-01,Spencer Cruz,Spencer,Cruz,West,27916.4,On Account,15000,2791.64,5,12916.400000000001
+2021-05-01,Chloe Fusaro,Chloe,Fusaro,North,27930.0,Cash,15000,2793.0,5,12930.0
+2021-05-01,Emily Whelan,Emily,Whelan,South,28616.0,On Account,15000,2861.6,5,13616.0
+2021-05-01,Annabel Mettick,Annabel,Mettick,South,30377.4,On Account,15000,3037.74,5,15377.400000000001
+2021-05-01,Ashley Almanza,Ashley,Almanza,East,31200.0,Cash,15000,3120.0,5,16200.0
+2021-05-01,Emily Whelan,Emily,Whelan,South,35351.0,Cash,15000,3535.1,5,20351.0
+2021-05-01,Spencer Cruz,Spencer,Cruz,West,42249.1,Cash,15000,4224.91,5,27249.1
+2021-06-01,Ashley Almanza,Ashley,Almanza,East,2070.3,Credit Card,15000,0.0,6,-12929.7
+2021-06-01,Emily Whelan,Emily,Whelan,South,6872.8,Credit Card,15000,0.0,6,-8127.2
+2021-06-01,Jonah Seitz,Jonah,Seitz,North,7582.0,Credit Card,15000,0.0,6,-7418.0
+2021-06-01,Chloe Fusaro,Chloe,Fusaro,North,8721.6,On Account,15000,0.0,6,-6278.4
+2021-06-01,Annabel Mettick,Annabel,Mettick,South,8827.0,On Account,15000,0.0,6,-6173.0
+2021-06-01,Reza Jafari,Reza,Jafari,East,9499.0,Cash,15000,0.0,6,-5501.0
+2021-06-01,Ally Bryant,Ally,Bryant,West,9574.8,Cash,15000,0.0,6,-5425.200000000001
+2021-06-01,Cory Goodwin,Cory,Goodwin,South,9836.8,Credit Card,15000,0.0,6,-5163.200000000001
+2021-06-01,Annabel Mettick,Annabel,Mettick,South,10032.0,Credit Card,15000,0.0,6,-4968.0
+2021-06-01,Jonah Seitz,Jonah,Seitz,North,10500.0,Cash,15000,0.0,6,-4500.0
+2021-06-01,David Wilkinson,David,Wilkinson,North,13467.0,On Account,15000,0.0,6,-1533.0
+2021-06-01,Ally Bryant,Ally,Bryant,West,14301.6,Cash,15000,0.0,6,-698.3999999999996
+2021-06-01,Tia Cruise,Tia,Cruise,West,15061.2,Cash,15000,1506.12,6,61.20000000000073
+2021-06-01,Annabel Mettick,Annabel,Mettick,South,15953.6,Cash,15000,1595.36,6,953.6000000000004
+2021-06-01,Jonah Seitz,Jonah,Seitz,North,16036.8,Cash,15000,1603.68,6,1036.7999999999993
+2021-06-01,Charlotte Edwards,Charlotte,Edwards,North,16846.8,Cash,15000,1684.68,6,1846.7999999999993
+2021-06-01,Josh Sutherland,Josh,Sutherland,West,17262.0,Cash,15000,1726.2,6,2262.0
+2021-06-01,Reza Jafari,Reza,Jafari,East,17904.7,On Account,15000,1790.47,6,2904.7000000000007
+2021-06-01,Reza Jafari,Reza,Jafari,East,18878.4,Cash,15000,1887.84,6,3878.4000000000015
+2021-06-01,Reza Jafari,Reza,Jafari,East,23445.0,Cash,15000,2344.5,6,8445.0
+2021-06-01,Emily Whelan,Emily,Whelan,South,25560.0,Credit Card,15000,2556.0,6,10560.0
+2021-06-01,Reza Jafari,Reza,Jafari,East,34162.0,Cash,15000,3416.2,6,19162.0
+2021-06-01,Annabel Mettick,Annabel,Mettick,South,35695.0,Cash,15000,3569.5,6,20695.0
+2021-06-01,Spencer Cruz,Spencer,Cruz,West,37192.5,On Account,15000,3719.25,6,22192.5
+2021-06-01,Tia Cruise,Tia,Cruise,West,39653.9,On Account,15000,3965.39,6,24653.9
+2021-07-01,Reza Jafari,Reza,Jafari,East,3055.2,Credit Card,15000,0.0,7,-11944.8
+2021-07-01,Tia Cruise,Tia,Cruise,West,3465.0,Cash,15000,0.0,7,-11535.0
+2021-07-01,Ashley Almanza,Ashley,Almanza,East,4843.4,On Account,15000,0.0,7,-10156.6
+2021-07-01,Derek Godwin,Derek,Godwin,East,5215.2,On Account,15000,0.0,7,-9784.8
+2021-07-01,Josh Sutherland,Josh,Sutherland,West,5332.8,Cash,15000,0.0,7,-9667.2
+2021-07-01,Reza Jafari,Reza,Jafari,East,7199.7,On Account,15000,0.0,7,-7800.3
+2021-07-01,Ally Bryant,Ally,Bryant,West,8065.6,On Account,15000,0.0,7,-6934.4
+2021-07-01,Cory Goodwin,Cory,Goodwin,South,9405.3,Cash,15000,0.0,7,-5594.700000000001
+2021-07-01,Emily Whelan,Emily,Whelan,South,9704.2,On Account,15000,0.0,7,-5295.799999999999
+2021-07-01,Ally Bryant,Ally,Bryant,West,10067.2,On Account,15000,0.0,7,-4932.799999999999
+2021-07-01,Ally Bryant,Ally,Bryant,West,10649.0,On Account,15000,0.0,7,-4351.0
+2021-07-01,Josh Sutherland,Josh,Sutherland,West,10679.4,On Account,15000,0.0,7,-4320.6
+2021-07-01,Spencer Cruz,Spencer,Cruz,West,11155.5,Credit Card,15000,0.0,7,-3844.5
+2021-07-01,Ally Bryant,Ally,Bryant,West,11543.0,Credit Card,15000,0.0,7,-3457.0
+2021-07-01,Cory Goodwin,Cory,Goodwin,South,13674.0,Cash,15000,0.0,7,-1326.0
+2021-07-01,Bryan Maldonado,Bryan,Maldonado,East,14670.0,Credit Card,15000,0.0,7,-330.0
+2021-07-01,Ally Bryant,Ally,Bryant,West,15633.2,Cash,15000,1563.32,7,633.2000000000007
+2021-07-01,David Wilkinson,David,Wilkinson,North,15957.2,On Account,15000,1595.72,7,957.2000000000007
+2021-07-01,Sarah Gibbs,Sarah,Gibbs,North,16492.0,Credit Card,15000,1649.2,7,1492.0
+2021-07-01,Ashley Almanza,Ashley,Almanza,East,16614.4,Credit Card,15000,1661.44,7,1614.4000000000015
+2021-07-01,Bryan Maldonado,Bryan,Maldonado,East,20076.7,On Account,15000,2007.67,7,5076.700000000001
+2021-07-01,Ally Bryant,Ally,Bryant,West,20868.4,Cash,15000,2086.84,7,5868.4000000000015
+2021-07-01,Annabel Mettick,Annabel,Mettick,South,21120.4,Cash,15000,2112.04,7,6120.4000000000015
+2021-07-01,Charlotte Edwards,Charlotte,Edwards,North,21295.4,Credit Card,15000,2129.54,7,6295.4000000000015
+2021-07-01,Reza Jafari,Reza,Jafari,East,21483.0,On Account,15000,2148.3,7,6483.0
+2021-07-01,Annabel Mettick,Annabel,Mettick,South,23997.6,Credit Card,15000,2399.76,7,8997.599999999999
+2021-07-01,Ally Bryant,Ally,Bryant,West,24395.1,Credit Card,15000,2439.51,7,9395.099999999999
+2021-07-01,Chloe Fusaro,Chloe,Fusaro,North,25518.8,Credit Card,15000,2551.88,7,10518.8
+2021-07-01,Chloe Fusaro,Chloe,Fusaro,North,27676.6,Cash,15000,2767.66,7,12676.599999999999
+2021-07-01,Charlotte Edwards,Charlotte,Edwards,North,28395.0,On Account,15000,2839.5,7,13395.0
+2021-07-01,Gordon Beswick,Gordon,Beswick,East,30776.8,Credit Card,15000,3077.68,7,15776.8
+2021-07-01,Annabel Mettick,Annabel,Mettick,South,35715.4,On Account,15000,3571.54,7,20715.4
+2021-07-01,Sarah Gibbs,Sarah,Gibbs,North,41826.4,On Account,15000,4182.64,7,26826.4
+2021-07-01,Sarah Gibbs,Sarah,Gibbs,North,49056.0,Credit Card,15000,4905.6,7,34056.0
+2021-08-01,Annabel Mettick,Annabel,Mettick,South,3386.6,Cash,15000,0.0,8,-11613.4
+2021-08-01,Ally Bryant,Ally,Bryant,West,3760.5,Credit Card,15000,0.0,8,-11239.5
+2021-08-01,Emily Whelan,Emily,Whelan,South,4028.0,Credit Card,15000,0.0,8,-10972.0
+2021-08-01,Ally Bryant,Ally,Bryant,West,4322.8,On Account,15000,0.0,8,-10677.2
+2021-08-01,Olivia Cheung,Olivia,Cheung,South,5532.8,Cash,15000,0.0,8,-9467.2
+2021-08-01,Chloe Fusaro,Chloe,Fusaro,North,6201.0,On Account,15000,0.0,8,-8799.0
+2021-08-01,David Wilkinson,David,Wilkinson,North,6311.4,On Account,15000,0.0,8,-8688.6
+2021-08-01,Jonah Seitz,Jonah,Seitz,North,7289.6,Credit Card,15000,0.0,8,-7710.4
+2021-08-01,Jonah Seitz,Jonah,Seitz,North,8322.4,Credit Card,15000,0.0,8,-6677.6
+2021-08-01,Charlotte Edwards,Charlotte,Edwards,North,8501.9,Cash,15000,0.0,8,-6498.1
+2021-08-01,Bryan Maldonado,Bryan,Maldonado,East,8625.0,Cash,15000,0.0,8,-6375.0
+2021-08-01,Ally Bryant,Ally,Bryant,West,9697.6,Cash,15000,0.0,8,-5302.4
+2021-08-01,Chloe Fusaro,Chloe,Fusaro,North,9708.3,Cash,15000,0.0,8,-5291.700000000001
+2021-08-01,Reza Jafari,Reza,Jafari,East,9794.0,Cash,15000,0.0,8,-5206.0
+2021-08-01,Annabel Mettick,Annabel,Mettick,South,10200.0,On Account,15000,0.0,8,-4800.0
+2021-08-01,Ally Bryant,Ally,Bryant,West,10391.7,On Account,15000,0.0,8,-4608.299999999999
+2021-08-01,Jonah Seitz,Jonah,Seitz,North,12944.4,Cash,15000,0.0,8,-2055.6000000000004
+2021-08-01,Olivia Cheung,Olivia,Cheung,South,13923.0,On Account,15000,0.0,8,-1077.0
+2021-08-01,Chloe Fusaro,Chloe,Fusaro,North,14248.0,Cash,15000,0.0,8,-752.0
+2021-08-01,Spencer Cruz,Spencer,Cruz,West,15670.2,On Account,15000,1567.02,8,670.2000000000007
+2021-08-01,Bryan Maldonado,Bryan,Maldonado,East,16321.6,Credit Card,15000,1632.16,8,1321.6000000000004
+2021-08-01,Emily Whelan,Emily,Whelan,South,17593.4,Cash,15000,1759.34,8,2593.4000000000015
+2021-08-01,Cory Goodwin,Cory,Goodwin,South,17666.0,Credit Card,15000,1766.6,8,2666.0
+2021-08-01,Jonah Seitz,Jonah,Seitz,North,18298.4,On Account,15000,1829.84,8,3298.4000000000015
+2021-08-01,Jonah Seitz,Jonah,Seitz,North,18838.4,On Account,15000,1883.84,8,3838.4000000000015
+2021-08-01,Reza Jafari,Reza,Jafari,East,19678.8,Cash,15000,1967.88,8,4678.799999999999
+2021-08-01,Annabel Mettick,Annabel,Mettick,South,21420.0,On Account,15000,2142.0,8,6420.0
+2021-08-01,Josh Sutherland,Josh,Sutherland,West,22477.9,Cash,15000,2247.79,8,7477.9000000000015
+2021-08-01,Olivia Cheung,Olivia,Cheung,South,24080.0,Credit Card,15000,2408.0,8,9080.0
+2021-08-01,Sarah Gibbs,Sarah,Gibbs,North,24469.6,Cash,15000,2446.96,8,9469.599999999999
+2021-08-01,Emily Whelan,Emily,Whelan,South,27531.0,On Account,15000,2753.1,8,12531.0
+2021-08-01,Sarah Gibbs,Sarah,Gibbs,North,31053.4,Credit Card,15000,3105.34,8,16053.400000000001
+2021-08-01,Cory Goodwin,Cory,Goodwin,South,32795.7,Cash,15000,3279.57,8,17795.699999999997
+2021-08-01,Bryan Maldonado,Bryan,Maldonado,East,33694.8,Cash,15000,3369.48,8,18694.800000000003
+2021-08-01,Josh Sutherland,Josh,Sutherland,West,36088.1,On Account,15000,3608.81,8,21088.1
+2021-08-01,Derek Godwin,Derek,Godwin,East,39236.0,On Account,15000,3923.6,8,24236.0
+2021-08-01,Reza Jafari,Reza,Jafari,East,43088.2,Credit Card,15000,4308.82,8,28088.199999999997
+2021-08-01,Nina McDonald,Nina,McDonald,West,43388.1,Cash,15000,4338.81,8,28388.1
+2021-09-01,Jonah Seitz,Jonah,Seitz,North,3710.0,On Account,15000,0.0,9,-11290.0
+2021-09-01,Ashley Almanza,Ashley,Almanza,East,5572.3,Credit Card,15000,0.0,9,-9427.7
+2021-09-01,Charlotte Edwards,Charlotte,Edwards,North,6600.0,Credit Card,15000,0.0,9,-8400.0
+2021-09-01,Emily Whelan,Emily,Whelan,South,7008.0,On Account,15000,0.0,9,-7992.0
+2021-09-01,Reza Jafari,Reza,Jafari,East,7497.0,Cash,15000,0.0,9,-7503.0
+2021-09-01,Tia Cruise,Tia,Cruise,West,7714.0,Credit Card,15000,0.0,9,-7286.0
+2021-09-01,Sarah Gibbs,Sarah,Gibbs,North,8001.0,Credit Card,15000,0.0,9,-6999.0
+2021-09-01,Olivia Cheung,Olivia,Cheung,South,8099.7,Credit Card,15000,0.0,9,-6900.3
+2021-09-01,Jonah Seitz,Jonah,Seitz,North,8772.0,Cash,15000,0.0,9,-6228.0
+2021-09-01,Derek Godwin,Derek,Godwin,East,9651.2,Credit Card,15000,0.0,9,-5348.799999999999
+2021-09-01,Annabel Mettick,Annabel,Mettick,South,9840.0,Cash,15000,0.0,9,-5160.0
+2021-09-01,Jason Jackaki,Jason,Jackaki,South,10218.0,Cash,15000,0.0,9,-4782.0
+2021-09-01,Ashley Almanza,Ashley,Almanza,East,10492.2,On Account,15000,0.0,9,-4507.799999999999
+2021-09-01,Jonah Seitz,Jonah,Seitz,North,14089.2,Cash,15000,0.0,9,-910.7999999999993
+2021-09-01,Annabel Mettick,Annabel,Mettick,South,14311.2,Credit Card,15000,0.0,9,-688.7999999999993
+2021-09-01,Annabel Mettick,Annabel,Mettick,South,14715.2,Cash,15000,0.0,9,-284.7999999999993
+2021-09-01,Nina McDonald,Nina,McDonald,West,15152.4,On Account,15000,1515.24,9,152.39999999999964
+2021-09-01,Ally Bryant,Ally,Bryant,West,16363.9,Credit Card,15000,1636.39,9,1363.8999999999996
+2021-09-01,Chloe Fusaro,Chloe,Fusaro,North,16702.4,Cash,15000,1670.24,9,1702.4000000000015
+2021-09-01,Ashley Almanza,Ashley,Almanza,East,18396.7,Credit Card,15000,1839.67,9,3396.7000000000007
+2021-09-01,Cory Goodwin,Cory,Goodwin,South,19147.8,Cash,15000,1914.78,9,4147.799999999999
+2021-09-01,Annabel Mettick,Annabel,Mettick,South,20760.3,Cash,15000,2076.03,9,5760.299999999999
+2021-09-01,Chloe Fusaro,Chloe,Fusaro,North,21216.0,Cash,15000,2121.6,9,6216.0
+2021-09-01,Charlotte Edwards,Charlotte,Edwards,North,21546.0,Credit Card,15000,2154.6,9,6546.0
+2021-09-01,Derek Godwin,Derek,Godwin,East,23849.6,Credit Card,15000,2384.96,9,8849.599999999999
+2021-09-01,Bryan Maldonado,Bryan,Maldonado,East,23882.4,On Account,15000,2388.24,9,8882.400000000001
+2021-09-01,Cory Goodwin,Cory,Goodwin,South,24579.8,Credit Card,15000,2457.98,9,9579.8
+2021-09-01,Cory Goodwin,Cory,Goodwin,South,25946.3,On Account,15000,2594.63,9,10946.3
+2021-09-01,Olivia Cheung,Olivia,Cheung,South,30368.0,Cash,15000,3036.8,9,15368.0
+2021-09-01,Charlotte Edwards,Charlotte,Edwards,North,31186.6,Credit Card,15000,3118.66,9,16186.599999999999
+2021-09-01,Chloe Fusaro,Chloe,Fusaro,North,31999.2,Cash,15000,3199.92,9,16999.2
+2021-09-01,Derek Godwin,Derek,Godwin,East,34041.3,On Account,15000,3404.13,9,19041.300000000003
+2021-09-01,Emily Whelan,Emily,Whelan,South,35640.0,Credit Card,15000,3564.0,9,20640.0
+2021-09-01,Charlotte Edwards,Charlotte,Edwards,North,37520.0,Cash,15000,3752.0,9,22520.0
+2021-09-01,Charlotte Edwards,Charlotte,Edwards,North,41215.3,On Account,15000,4121.53,9,26215.300000000003
+2021-10-01,Nina McDonald,Nina,McDonald,West,2997.2,Credit Card,15000,0.0,10,-12002.8
+2021-10-01,Chloe Fusaro,Chloe,Fusaro,North,3035.1,Cash,15000,0.0,10,-11964.9
+2021-10-01,Gordon Beswick,Gordon,Beswick,East,3243.6,Credit Card,15000,0.0,10,-11756.4
+2021-10-01,Jason Jackaki,Jason,Jackaki,South,4201.6,Cash,15000,0.0,10,-10798.4
+2021-10-01,Charlotte Edwards,Charlotte,Edwards,North,6688.0,Cash,15000,0.0,10,-8312.0
+2021-10-01,Chloe Fusaro,Chloe,Fusaro,North,7024.2,On Account,15000,0.0,10,-7975.8
+2021-10-01,Charlotte Edwards,Charlotte,Edwards,North,7139.0,Credit Card,15000,0.0,10,-7861.0
+2021-10-01,Tia Cruise,Tia,Cruise,West,7196.0,Cash,15000,0.0,10,-7804.0
+2021-10-01,Josh Sutherland,Josh,Sutherland,West,10595.2,On Account,15000,0.0,10,-4404.799999999999
+2021-10-01,Tia Cruise,Tia,Cruise,West,10694.7,On Account,15000,0.0,10,-4305.299999999999
+2021-10-01,Jonah Seitz,Jonah,Seitz,North,10948.0,Cash,15000,0.0,10,-4052.0
+2021-10-01,Jonah Seitz,Jonah,Seitz,North,10988.8,Credit Card,15000,0.0,10,-4011.2000000000007
+2021-10-01,Jonah Seitz,Jonah,Seitz,North,12306.6,Cash,15000,0.0,10,-2693.3999999999996
+2021-10-01,Reza Jafari,Reza,Jafari,East,12633.6,Cash,15000,0.0,10,-2366.3999999999996
+2021-10-01,Gordon Beswick,Gordon,Beswick,East,12806.4,On Account,15000,0.0,10,-2193.6000000000004
+2021-10-01,Josh Sutherland,Josh,Sutherland,West,14235.4,On Account,15000,0.0,10,-764.6000000000004
+2021-10-01,Olivia Cheung,Olivia,Cheung,South,15262.8,On Account,15000,1526.28,10,262.7999999999993
+2021-10-01,Jonah Seitz,Jonah,Seitz,North,16077.0,Cash,15000,1607.7,10,1077.0
+2021-10-01,David Wilkinson,David,Wilkinson,North,19594.0,Cash,15000,1959.4,10,4594.0
+2021-10-01,Chloe Fusaro,Chloe,Fusaro,North,19946.2,On Account,15000,1994.62,10,4946.200000000001
+2021-10-01,Derek Godwin,Derek,Godwin,East,20031.2,On Account,15000,2003.12,10,5031.200000000001
+2021-10-01,Cory Goodwin,Cory,Goodwin,South,20790.0,Cash,15000,2079.0,10,5790.0
+2021-10-01,Ashley Almanza,Ashley,Almanza,East,21485.2,Cash,15000,2148.52,10,6485.200000000001
+2021-10-01,Jason Jackaki,Jason,Jackaki,South,21878.5,Credit Card,15000,2187.85,10,6878.5
+2021-10-01,Cory Goodwin,Cory,Goodwin,South,22136.8,Credit Card,15000,2213.68,10,7136.799999999999
+2021-10-01,Bryan Maldonado,Bryan,Maldonado,East,22607.2,Credit Card,15000,2260.72,10,7607.200000000001
+2021-10-01,Cory Goodwin,Cory,Goodwin,South,23240.4,Cash,15000,2324.04,10,8240.400000000001
+2021-10-01,Sarah Gibbs,Sarah,Gibbs,North,26773.4,On Account,15000,2677.34,10,11773.400000000001
+2021-10-01,Jonah Seitz,Jonah,Seitz,North,28464.9,On Account,15000,2846.49,10,13464.900000000001
+2021-10-01,Josh Sutherland,Josh,Sutherland,West,36530.2,Cash,15000,3653.02,10,21530.199999999997
+2021-10-01,Spencer Cruz,Spencer,Cruz,West,36896.2,On Account,15000,3689.62,10,21896.199999999997
+2021-10-01,Charlotte Edwards,Charlotte,Edwards,North,37544.8,Credit Card,15000,3754.48,10,22544.800000000003
+2021-10-01,Jonah Seitz,Jonah,Seitz,North,40224.8,Credit Card,15000,4022.48,10,25224.800000000003
+2021-10-01,Nina McDonald,Nina,McDonald,West,41420.7,Credit Card,15000,4142.07,10,26420.699999999997
+2021-10-01,Jason Jackaki,Jason,Jackaki,South,41989.6,Credit Card,15000,4198.96,10,26989.6
+2021-10-01,David Wilkinson,David,Wilkinson,North,43591.8,Credit Card,15000,4359.18,10,28591.800000000003
+2021-11-01,Derek Godwin,Derek,Godwin,East,5130.0,Cash,15000,0.0,11,-9870.0
+2021-11-01,Josh Sutherland,Josh,Sutherland,West,6900.0,Cash,15000,0.0,11,-8100.0
+2021-11-01,Ashley Almanza,Ashley,Almanza,East,8810.9,Credit Card,15000,0.0,11,-6189.1
+2021-11-01,Annabel Mettick,Annabel,Mettick,South,9006.0,On Account,15000,0.0,11,-5994.0
+2021-11-01,Sarah Gibbs,Sarah,Gibbs,North,9292.5,Cash,15000,0.0,11,-5707.5
+2021-11-01,Spencer Cruz,Spencer,Cruz,West,9683.0,On Account,15000,0.0,11,-5317.0
+2021-11-01,Jason Jackaki,Jason,Jackaki,South,10573.5,Credit Card,15000,0.0,11,-4426.5
+2021-11-01,Emily Whelan,Emily,Whelan,South,13230.0,Cash,15000,0.0,11,-1770.0
+2021-11-01,Ally Bryant,Ally,Bryant,West,14302.9,Credit Card,15000,0.0,11,-697.1000000000004
+2021-11-01,Olivia Cheung,Olivia,Cheung,South,15403.6,Cash,15000,1540.36,11,403.60000000000036
+2021-11-01,Annabel Mettick,Annabel,Mettick,South,16394.4,Cash,15000,1639.44,11,1394.4000000000015
+2021-11-01,Gordon Beswick,Gordon,Beswick,East,16606.0,Credit Card,15000,1660.6,11,1606.0
+2021-11-01,Annabel Mettick,Annabel,Mettick,South,16606.0,On Account,15000,1660.6,11,1606.0
+2021-11-01,Nina McDonald,Nina,McDonald,West,16806.4,Credit Card,15000,1680.64,11,1806.4000000000015
+2021-11-01,Derek Godwin,Derek,Godwin,East,17766.0,Credit Card,15000,1776.6,11,2766.0
+2021-11-01,Olivia Cheung,Olivia,Cheung,South,18452.6,On Account,15000,1845.26,11,3452.5999999999985
+2021-11-01,Jason Jackaki,Jason,Jackaki,South,20062.5,Credit Card,15000,2006.25,11,5062.5
+2021-11-01,Tia Cruise,Tia,Cruise,West,20797.2,Cash,15000,2079.72,11,5797.200000000001
+2021-11-01,Reza Jafari,Reza,Jafari,East,20916.0,Credit Card,15000,2091.6,11,5916.0
+2021-11-01,Reza Jafari,Reza,Jafari,East,22396.5,On Account,15000,2239.65,11,7396.5
+2021-11-01,Cory Goodwin,Cory,Goodwin,South,22900.5,Credit Card,15000,2290.05,11,7900.5
+2021-11-01,Cory Goodwin,Cory,Goodwin,South,23058.0,On Account,15000,2305.8,11,8058.0
+2021-11-01,Derek Godwin,Derek,Godwin,East,25633.5,Cash,15000,2563.35,11,10633.5
+2021-11-01,Spencer Cruz,Spencer,Cruz,West,26866.0,On Account,15000,2686.6,11,11866.0
+2021-11-01,David Wilkinson,David,Wilkinson,North,28761.6,On Account,15000,2876.16,11,13761.599999999999
+2021-11-01,Reza Jafari,Reza,Jafari,East,37374.4,On Account,15000,3737.44,11,22374.4
+2021-11-01,Annabel Mettick,Annabel,Mettick,South,37560.0,On Account,15000,3756.0,11,22560.0
+2021-11-01,Jason Jackaki,Jason,Jackaki,South,38570.0,Credit Card,15000,3857.0,11,23570.0
+2021-11-01,Olivia Cheung,Olivia,Cheung,South,39199.6,On Account,15000,3919.96,11,24199.6
+2021-11-01,Jonah Seitz,Jonah,Seitz,North,41932.8,Credit Card,15000,4193.28,11,26932.800000000003
+2021-11-01,Chloe Fusaro,Chloe,Fusaro,North,42427.0,Cash,15000,4242.7,11,27427.0
+2021-11-01,Sarah Gibbs,Sarah,Gibbs,North,47510.4,Cash,15000,4751.04,11,32510.4
+2021-12-01,Derek Godwin,Derek,Godwin,East,3818.0,Credit Card,15000,0.0,12,-11182.0
+2021-12-01,Spencer Cruz,Spencer,Cruz,West,7009.2,Cash,15000,0.0,12,-7990.8
+2021-12-01,Josh Sutherland,Josh,Sutherland,West,7088.9,Credit Card,15000,0.0,12,-7911.1
+2021-12-01,David Wilkinson,David,Wilkinson,North,7721.6,Credit Card,15000,0.0,12,-7278.4
+2021-12-01,Annabel Mettick,Annabel,Mettick,South,8082.8,Credit Card,15000,0.0,12,-6917.2
+2021-12-01,Spencer Cruz,Spencer,Cruz,West,8095.5,Credit Card,15000,0.0,12,-6904.5
+2021-12-01,Reza Jafari,Reza,Jafari,East,8683.2,Cash,15000,0.0,12,-6316.799999999999
+2021-12-01,Nina McDonald,Nina,McDonald,West,8914.5,Credit Card,15000,0.0,12,-6085.5
+2021-12-01,Jonah Seitz,Jonah,Seitz,North,8925.7,Credit Card,15000,0.0,12,-6074.299999999999
+2021-12-01,Jason Jackaki,Jason,Jackaki,South,9826.4,On Account,15000,0.0,12,-5173.6
+2021-12-01,Ashley Almanza,Ashley,Almanza,East,11210.0,On Account,15000,0.0,12,-3790.0
+2021-12-01,Cory Goodwin,Cory,Goodwin,South,12328.0,Cash,15000,0.0,12,-2672.0
+2021-12-01,Gordon Beswick,Gordon,Beswick,East,12765.2,On Account,15000,0.0,12,-2234.7999999999993
+2021-12-01,Jonah Seitz,Jonah,Seitz,North,15802.6,On Account,15000,1580.26,12,802.6000000000004
+2021-12-01,Derek Godwin,Derek,Godwin,East,15922.0,On Account,15000,1592.2,12,922.0
+2021-12-01,Sarah Gibbs,Sarah,Gibbs,North,21103.3,On Account,15000,2110.33,12,6103.299999999999
+2021-12-01,Sarah Gibbs,Sarah,Gibbs,North,22351.1,On Account,15000,2235.11,12,7351.0999999999985
+2021-12-01,Annabel Mettick,Annabel,Mettick,South,24544.0,Cash,15000,2454.4,12,9544.0
+2021-12-01,Olivia Cheung,Olivia,Cheung,South,27350.4,On Account,15000,2735.04,12,12350.400000000001
+2021-12-01,Emily Whelan,Emily,Whelan,South,28845.0,Cash,15000,2884.5,12,13845.0
+2021-12-01,Gordon Beswick,Gordon,Beswick,East,31970.8,Credit Card,15000,3197.08,12,16970.8
+2021-12-01,Ashley Almanza,Ashley,Almanza,East,41520.0,Credit Card,15000,4152.0,12,26520.0
+2021-12-01,Olivia Cheung,Olivia,Cheung,South,43593.6,Cash,15000,4359.36,12,28593.6
+2021-12-01,Jonah Seitz,Jonah,Seitz,North,43974.0,Credit Card,15000,4397.4,12,28974.0
+2021-12-01,Ashley Almanza,Ashley,Almanza,East,45801.0,Cash,15000,4580.1,12,30801.0
