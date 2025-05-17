@@ -1,4 +1,5 @@
-# MSOFF365PPS
+# MSMASTEROFF365PPS
+
 ## Master Microsoft Office 365 and Power Platform Specialization (8 course series)
 
 The Microsoft Office 365 and Power Platform program offers comprehensive training in essential Microsoft applications to enhance your productivity and efficiency in any professional setting. This program focuses on 4 key areas, each designed to equip you with practical skills to excel in your work environment.
